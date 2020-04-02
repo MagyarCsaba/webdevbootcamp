@@ -1,0 +1,10 @@
+body {
+  background-color: papayawhip;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: lightsteelblue;
+  border-width: 2px;
+}
