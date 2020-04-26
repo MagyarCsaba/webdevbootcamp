@@ -1,6 +1,10 @@
+h1, .p-1 {
+  text-align: center;
+}
+
 .jumbo-1 {
   border-radius:1.5em;
-  width:50%;
+  width:80%;
   margin:auto;
 }
 
