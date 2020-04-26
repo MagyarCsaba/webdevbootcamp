@@ -1,0 +1,9 @@
+.jumbo-1 {
+  border-radius:1.5em;
+  width:50%;
+  margin:auto;
+}
+
+.jumbo-1:hover {
+  box-shadow: 5px -5px 5px lightgrey;
+}
